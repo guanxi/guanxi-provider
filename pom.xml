@@ -9,6 +9,6 @@
     <artifactId>guanxi-core</artifactId>
     <groupId>org.guanxi</groupId>
     <version>2.0.0</version>
-    <relativePath>Core/pom.xml</relativePath>
+    <relativePath>../Core/pom.xml</relativePath>
   </parent>
 </project>
