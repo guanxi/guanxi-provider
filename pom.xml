@@ -5,6 +5,11 @@
   <groupId>org.guanxi</groupId>
   <version>1.0.1-SNAPSHOT</version>
 
+  <organization>
+    <name>UHI Millennium Institute</name>
+    <url>http://codebrane.com/blog/?cat=2</url>
+  </organization>
+
   <parent>
     <artifactId>guanxi-core</artifactId>
     <groupId>org.guanxi</groupId>
